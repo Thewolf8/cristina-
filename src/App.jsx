@@ -573,7 +573,7 @@ function LetterScreen({ path, onBack }) {
           >
             <span className="ltr-rule" style={{ background: data.accent }} />
             <p className="ltr-sig-text" style={{ color: data.accent }}>
-              ✦ Cu drag, Universul tău ✦
+              ✦ Cu drag, Fateh ✦
             </p>
           </motion.div>
 
